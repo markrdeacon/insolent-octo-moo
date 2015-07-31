@@ -2,4 +2,4 @@ Here is some text.
 
 Adding more text.
 
-And some more.  Will this line disappear with 2 undos?  No it won't
+And some more.  Will this line disappear with 2 undos?  No it won't.
