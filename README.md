@@ -14,6 +14,4 @@ And code?
     
 I'm adding this line from the website to test syncing changes between remote and local repos.
 
-Another server side change. 
-
 Another change so that I can test stashing.
