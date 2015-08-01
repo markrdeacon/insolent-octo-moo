@@ -8,12 +8,14 @@ More useful information.
 
 And code?
 
-    var work = function() {  
-      //do some work.  
+    var work = function() {
+      //do some work.
     };
-    
+
 I'm adding this line from the website to test syncing changes between remote and local repos.
 
 Another change so that I can test stashing.
 
 More and more.
+
+**What!**
