@@ -21,3 +21,5 @@ More and more.
 **What!**
 
 I want to change it!
+
+I can't believe we are conflicted about this.  Can't we just talk?
