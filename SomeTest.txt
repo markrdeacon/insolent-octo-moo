@@ -2,4 +2,7 @@ Here is some text.
 
 Adding more text.
 
+More bug fixing.
+
 And some more.  Will this line disappear with 2 undos?  No it won't.
+

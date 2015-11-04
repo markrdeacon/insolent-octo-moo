@@ -1,3 +1,5 @@
 Some core functionality on master branch.
 
 Changing some core functionality.
+
+Bug fixed here.
